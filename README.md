@@ -29,6 +29,12 @@ Show user data with particular id
 
 https://user-images.githubusercontent.com/97904433/225438884-822f5517-f8bd-4d9a-981f-da70adc244e5.mp4
 
+Update data of user with particular id
+
+
+
+https://user-images.githubusercontent.com/97904433/225439193-7a4286bb-2a1d-4cd5-84b7-953ea06caf96.mp4
+
 
 
 
