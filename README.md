@@ -17,4 +17,12 @@ Delete user with specific id
 
 https://user-images.githubusercontent.com/97904433/225437314-d912f029-6674-4798-bd42-8a44aedf0725.mp4
 
+Show data of all users
+
+
+
+https://user-images.githubusercontent.com/97904433/225438521-97bc0860-a13a-4cc8-88e6-c254483ba8df.mp4
+
+
+
 
