@@ -1,5 +1,6 @@
 # MongoDB-CRUD-Operations-Using-Flask
-This is a simple Flask application to demonstrate CRUD operations on MongoDB
+This is a simple Flask application to demonstrate CRUD operations on MongoDB.
+
 Requirements-
 
 Python
