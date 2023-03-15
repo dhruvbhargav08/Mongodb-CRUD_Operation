@@ -7,4 +7,5 @@ Pymongo
 Mongodb should be preinstalled on your computer.
 Creating new user
 
-https://user-images.githubusercontent.com/97904433/225435776-b3b9dd68-d04a-4080-999b-e65ae67c31e6.gif
+
+https://user-images.githubusercontent.com/97904433/225436793-f10d1bf1-9031-42e0-9248-ae5433ef88ec.mp4
